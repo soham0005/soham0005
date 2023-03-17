@@ -1,6 +1,7 @@
 
 -👋 Hi, I’m @soham0005<br>- 👀 I’m interested in Web Development<br>- 🌱 I’m currently learning Django REST<br>- 💞️ I’m looking to collaborate on Open Source<br>- 📫 How to reach me sohamadhyapak0005@gmail.com<br>-💬 Ask me about Python, Web development<br>-⚡ Fun fact I love to watch horror movies and anime
 
+[![](https://visitcount.itsvg.in/api?id=soham0005&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soham.215) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-adhyapak-34701a241) 
@@ -16,6 +17,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=soham0005&icon=8&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
