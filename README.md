@@ -1,5 +1,5 @@
 
--👋 Hi, I’m @soham0005<br>- 👀 I’m interested in Web Development<br>- 🌱 I’m currently learning Django REST<br>- 💞️ I’m looking to collaborate on Open Source<br>- 📫 How to reach me sohamadhyapak0005@gmail.com<br>-💬 Ask me about Python, Web development<br>-⚡ Fun fact I love to watch horror movies and anime
+-👋 Hi, I’m @soham0005<br>- 👀 I’m interested in Web Development<br>- 🌱 I’m currently learning Springboot<br>- 💞️ I’m looking to collaborate on Open Source<br>- 📫 How to reach me sohamadhyapak0005@gmail.com<br>-💬 Ask me about Python, Java, MERN Stack<br>-⚡ Fun fact I love to watch horror movies and anime
 
 [![](https://visitcount.itsvg.in/api?id=soham0005&icon=8&color=0)](https://visitcount.itsvg.in)
 
