@@ -9,10 +9,10 @@
 <!-- Social STARTS HERE-->
 <h2 align="center"><b>Connect with me:</b></h2>
 <p align="center">
-<a href="https://twitter.com/sohama_215" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="sohama_215" height="120" width="120" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soham-adhyapak-34701a241/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/soham-adhyapak-34701a241/" height="120" width="120" /></a>
+<a href="https://x.com/sohamA_215" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="sohama_215" height="120" width="120" /></a>
+<a href="https://www.linkedin.com/in/soham-adhyapak-34701a241/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/soham-adhyapak-34701a241/" height="120" width="120" /></a>
 <a href="https://instagram.com/soham.215" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="soham.215" height="120" width="120" /></a>
-<a href="https://discord.gg/soham.215" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="soham.215" height="120" width="120" /></a>
+<a href="https://discord.com/channels/@me/1290761894390403093" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="soham.215" height="120" width="120" /></a>
 </p>
 
 <!-- Social ENDS HERE-->
